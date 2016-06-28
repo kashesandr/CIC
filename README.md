@@ -1,3 +1,6 @@
+# The app was moved 
+You can find it here https://github.com/DataArt/chip-in-calculator
+
 # http://chip-in.me - live
 Chip in calculator
 
@@ -6,18 +9,3 @@ When you buy something collectively, you might have a situation when some of peo
 The app allows you to calculate how much and who should return the money within the group in that case.
 
 It's made with polymer-project.org.
-
-## Set up
-
-install node with npm
-
-run
-
-`npm install -g gulp`
-`npm install`
-
-## Make a build
-`gulp`
-
-## Run tests
-`npm test`
